@@ -1,0 +1,27 @@
+{
+  "class_counts": {
+    "setosa": 50,
+    "versicolor": 50,
+    "virginica": 50
+  },
+  "data_origin": "Fisher's Iris dataset bundled with scikit-learn",
+  "features": [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)"
+  ],
+  "name": "scikit-learn Iris",
+  "network_required": false,
+  "rows": 150,
+  "split_counts": {
+    "test": 30,
+    "train": 90,
+    "validation": 30
+  },
+  "target_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ]
+}

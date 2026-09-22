@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this educational project, please cite it as follows."
+title: "Explainable Quantum Machine Learning Dashboard"
+version: 1.0.0
+date-released: 2026-09-22
+authors:
+  - name: "School of AI and School of QC"
+license: MIT
+repository-code: "https://github.com/vivianaranha/explainable-quantum-machine-learning-dashboard"

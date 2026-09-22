@@ -1,0 +1,13 @@
+{
+  "angle_delta": 0.8028514559173915,
+  "counterfactual_angle": 1.413716694115407,
+  "counterfactual_confidence": 0.3426103581458344,
+  "counterfactual_prediction": 1,
+  "counterfactual_raw_value": 5.92,
+  "feature": "sepal length (cm)",
+  "feature_index": 0,
+  "found": true,
+  "original_angle": 0.6108652381980154,
+  "original_prediction": 0,
+  "original_raw_value": 5.0
+}

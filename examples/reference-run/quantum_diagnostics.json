@@ -1,0 +1,13 @@
+{
+  "best_epoch": 33,
+  "final_state_norm": 0.9999999999999996,
+  "maximum_infidelity": 1.5543122344752192e-15,
+  "numpy_qiskit_state_fidelities": [
+    0.9999999999999987,
+    0.9999999999999984,
+    0.9999999999999987
+  ],
+  "parameter_count": 16,
+  "reference_row_id": 7,
+  "stopped_epoch": 43
+}

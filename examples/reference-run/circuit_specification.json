@@ -1,0 +1,17 @@
+{
+  "ansatz_layer": [
+    "trainable RY and RZ on every qubit",
+    "CZ ring: (0,1), (1,2), (2,3), (3,0)"
+  ],
+  "execution": "Exact noiseless local statevector; no hardware claim",
+  "feature_map": [
+    "H on every qubit",
+    "RY(x_i) then RZ(x_i / 2) on qubit i",
+    "RZZ(0.5 * (pi-x_i) * (pi-x_j) / pi) on adjacent pairs"
+  ],
+  "layers": 2,
+  "qubits": 4,
+  "readout": "Exact Z expectation on qubits 0, 1, and 2; scaled softmax logits",
+  "trainable_parameters": 16,
+  "training_gradient": "Two-evaluation parameter-shift rule for every trainable angle"
+}

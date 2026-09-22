@@ -1,0 +1,17 @@
+{
+  "random_seed": 42,
+  "test_fraction": 0.2,
+  "validation_fraction": 0.2,
+  "qubits": 4,
+  "layers": 2,
+  "logit_scale": 2.0,
+  "learning_rate": 0.08,
+  "epochs": 45,
+  "patience": 10,
+  "min_delta": 0.0001,
+  "gradient_clip": 5.0,
+  "saliency_step": 0.001,
+  "counterfactual_grid_points": 121,
+  "output_root": "artifacts"
+}
+

@@ -1,0 +1,16 @@
+{
+  "counterfactual_grid_points": 121,
+  "epochs": 45,
+  "gradient_clip": 5.0,
+  "layers": 2,
+  "learning_rate": 0.08,
+  "logit_scale": 2.0,
+  "min_delta": 0.0001,
+  "output_root": "artifacts",
+  "patience": 10,
+  "qubits": 4,
+  "random_seed": 42,
+  "saliency_step": 0.001,
+  "test_fraction": 0.2,
+  "validation_fraction": 0.2
+}

@@ -1,0 +1,217 @@
+[
+  {
+    "bytes": 362,
+    "path": "README.md",
+    "sha256": "f5d824262004eb889b351f698049c5504e5f2ccffd8f2031378de51808b4fc4d"
+  },
+  {
+    "bytes": 12075,
+    "path": "angle_encoded_dataset.csv",
+    "sha256": "27727ba9c314e4fb079913f06be5b4a64e0d66319db33d90f094e95f67bbae7d"
+  },
+  {
+    "bytes": 968,
+    "path": "calibration_bins.csv",
+    "sha256": "7bd86b548c2580b38d3bdf1a7f6165b0f330afedb21b6a2e738768fc023450d2"
+  },
+  {
+    "bytes": 563,
+    "path": "circuit_specification.json",
+    "sha256": "bfd56d959ead870bcec8f87b1123764a7bc27331ca503afbe020e93257f9013c"
+  },
+  {
+    "bytes": 329,
+    "path": "config.json",
+    "sha256": "6629de597203df924c24d863d660fe30298ccde4864bf87d07437366bbf395c7"
+  },
+  {
+    "bytes": 376,
+    "path": "counterfactual.json",
+    "sha256": "524217c15fd0837733c6687f525eea30c69364dbd06cf27027dfe47fc125ffbf"
+  },
+  {
+    "bytes": 3274,
+    "path": "dataset_snapshot.csv",
+    "sha256": "c441c065bdcb8e60a65267ac1cfe2cc43c2123d6a29eb8577acd7578a4fbbcae"
+  },
+  {
+    "bytes": 501,
+    "path": "dataset_summary.json",
+    "sha256": "37c5a654432cec4b9a4f9e1c366b0bc1153a3f9c74e306c194a549a6a1da0ad6"
+  },
+  {
+    "bytes": 194,
+    "path": "environment.json",
+    "sha256": "988ad4aec8151639a033f17df04eaeda1a6f938f13e8ff5b0df8efadef9d62ae"
+  },
+  {
+    "bytes": 1481,
+    "path": "experiment_report.md",
+    "sha256": "a4846903cbb9efb5592b96eaf9ca60e5ee417eafbc23ab217d08a956669c1c59"
+  },
+  {
+    "bytes": 1830,
+    "path": "fixed_split.csv",
+    "sha256": "cb075c5f09d3464171f61b55e8ac941fb98fbc919ff04969ed67ba2dff3b47e3"
+  },
+  {
+    "bytes": 289,
+    "path": "global_saliency.csv",
+    "sha256": "99abb58a3cc5fd77a69178dc32fea355264916c9b277db3aa760b7be4d59eb8a"
+  },
+  {
+    "bytes": 1921,
+    "path": "metrics.json",
+    "sha256": "4b219aa04de7918b733ee318e1b6eb48e9c5c51d088611c72677d93505709f6c"
+  },
+  {
+    "bytes": 359602,
+    "path": "models/classical_baselines.joblib",
+    "sha256": "e7392cffc5caaeb97ca56c679b709ae0d875252f13a099e6eacf84747d25390d"
+  },
+  {
+    "bytes": 1427,
+    "path": "models/preprocessor.joblib",
+    "sha256": "db90af864bcd917f9192545df95b947fbc420231e86efedcfdad7a86faeb2b30"
+  },
+  {
+    "bytes": 1162,
+    "path": "models/quantum_model.json",
+    "sha256": "a55b60e2c456f4ff87b175e8685707fe1150bb8e4ff9b1991c1253f2b6e22a92"
+  },
+  {
+    "bytes": 26685,
+    "path": "parameter_gradients.csv",
+    "sha256": "3db6b1c17f47bd27f2a23d00d347da3e2f4fe47d8d33f415500e40260e3226fa"
+  },
+  {
+    "bytes": 72128,
+    "path": "plots/basis_probabilities.png",
+    "sha256": "f7b1e787958a80afed62660fcef09b980bffed81af01e557b17cee777d4b6268"
+  },
+  {
+    "bytes": 94008,
+    "path": "plots/calibration.png",
+    "sha256": "ef604e262433fa3ea4b1f49afd9e51b9723f9989ed315b9c632e7b6f6b7cc4ea"
+  },
+  {
+    "bytes": 98555,
+    "path": "plots/circuit_dynamics.png",
+    "sha256": "1743793564b53350347d1fb5e912728a9ef056a49e2b71081b5416f8fd5ae889"
+  },
+  {
+    "bytes": 40046,
+    "path": "plots/confidence_distribution.png",
+    "sha256": "a34e98f932ca95e91fb04d7e661b4f23519dec7c402dc021196f62efd8f45922"
+  },
+  {
+    "bytes": 123732,
+    "path": "plots/confusion_matrices.png",
+    "sha256": "922d3c4812b117665c9c448d3e1e4e891bafaa6c4cdf306343ea5d3dfcdaa34e"
+  },
+  {
+    "bytes": 30105,
+    "path": "plots/counterfactual.png",
+    "sha256": "8638ae0166b66ec8685d3ad4d7f3faa902e602594a68366a0ea303ece18e7ec8"
+  },
+  {
+    "bytes": 29900,
+    "path": "plots/dataset_split.png",
+    "sha256": "2362980746f51340ab9fda53f1cade2490234f73fc910a51b0f9d54f18f138b7"
+  },
+  {
+    "bytes": 57821,
+    "path": "plots/decision_surface.png",
+    "sha256": "ffe5ea1f23df72c662efa345ec67a77bc47fedbc653d23ee09363a0f4c4bb352"
+  },
+  {
+    "bytes": 51043,
+    "path": "plots/feature_encoding.png",
+    "sha256": "9a9f6c4951a9e97e212879acf29f49a880f8b80d51ad3809949c573f3a958b93"
+  },
+  {
+    "bytes": 45631,
+    "path": "plots/global_saliency.png",
+    "sha256": "56646cc29df219dc5963d6208d6765ef05ab97217c3becc83e21e4bbedc13c57"
+  },
+  {
+    "bytes": 102002,
+    "path": "plots/gradient_heatmap.png",
+    "sha256": "b926fc2ab1bb40f74aaf8a412c70ff08f8e3900b7529343b7144ad21b98903aa"
+  },
+  {
+    "bytes": 45758,
+    "path": "plots/gradient_norm.png",
+    "sha256": "c90e6fea69ebb0aacc73021f5e837b08cfee846e4ff147b6cc7b5688970c18b1"
+  },
+  {
+    "bytes": 39856,
+    "path": "plots/model_metrics.png",
+    "sha256": "19ec5f6cbfbbb7aa96edb297ddaf6b2ff6f16812a4ec56275bcd8ed0f5db2e5b"
+  },
+  {
+    "bytes": 90688,
+    "path": "plots/training_history.png",
+    "sha256": "303bd6e123bdd61ac86595052cedc1c5b4505aeecf25e3a18baa06a5261515f0"
+  },
+  {
+    "bytes": 1061,
+    "path": "preprocessing.json",
+    "sha256": "6c75729f5fe3d4268b72d3935b5b05b5af2b2c87386b67b20c4957bad3fd32c3"
+  },
+  {
+    "bytes": 299,
+    "path": "quantum_diagnostics.json",
+    "sha256": "8cebc9491b699337899a8eb854ee4b8527e3b20df421bdda8ba66a924dc1e677"
+  },
+  {
+    "bytes": 2072,
+    "path": "reference_basis_probabilities.csv",
+    "sha256": "91348dc5e0278eb6eeb1d3fad21726f358af0b69d7139907a0ab32750cadf6da"
+  },
+  {
+    "bytes": 3764,
+    "path": "reference_circuit.txt",
+    "sha256": "8f934f2142bdff55dc9d6a7ad4179a41dddfff176cd9d0ab7c86b34527049d6e"
+  },
+  {
+    "bytes": 576,
+    "path": "reference_circuit_trace.csv",
+    "sha256": "9c5b21e6afc50b6242bccca3e8f69f5491eca6e427657470d25d70db2953d4f2"
+  },
+  {
+    "bytes": 605,
+    "path": "reference_encoding.csv",
+    "sha256": "be42388124417264d8c54a23953afe50bb53d4a8d45c1cc3f00b5270b803898c"
+  },
+  {
+    "bytes": 407,
+    "path": "reference_local_saliency.csv",
+    "sha256": "0a5eb3baa780ba9fa15798982e2c928796fc0f4b77ffcc6a9cb151ffb53b7e18"
+  },
+  {
+    "bytes": 190,
+    "path": "run_metadata.json",
+    "sha256": "ee09466d12858809fd8c8685858425973bdcadcbe1435eefb203f557cb5eea6b"
+  },
+  {
+    "bytes": 498,
+    "path": "study_conclusion.json",
+    "sha256": "1a5740d31aea279dd99ab84b6e0e8811ca6987667693a78b87d482b41f1ad6c4"
+  },
+  {
+    "bytes": 1045,
+    "path": "summary_metrics.csv",
+    "sha256": "fd2e6ebde1378126bc3d9ea62d0ac15428e185607329e5325c754827a17576c8"
+  },
+  {
+    "bytes": 14651,
+    "path": "test_predictions.csv",
+    "sha256": "43f3c387f3b3d37acacbf21fd18e013d33f5b7b968e11bbbaae3b59333decf5e"
+  },
+  {
+    "bytes": 4907,
+    "path": "training_history.csv",
+    "sha256": "628bc346f768cfe7f3c8018de7997a0636bb406f2618f94f3e409048a49b7915"
+  }
+]
